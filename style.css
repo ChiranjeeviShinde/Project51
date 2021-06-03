@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color: fuchsia;
+    border: solid;
+    background-color: burlywood;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #deb220;
+}
+
+.grid2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #deb220;
+}
+
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.grid2 img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.origami{
+    border-radius: 20px;
+    width: 310px;
+}
